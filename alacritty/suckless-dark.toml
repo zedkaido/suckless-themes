@@ -21,8 +21,8 @@ cyan = "#d0d0d0"
 white = "#d0d0d0"
 
 [colors.cursor]
-text = "#000000"
-cursor = "#ffffff"
+text = "CellBackground"
+cursor = "CellForeground"
 
 [colors.vi_mode_cursor]
 text = "CellBackground"
